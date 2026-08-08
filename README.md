@@ -18,12 +18,6 @@ It provides insights into spending patterns, category-wise analysis, and estimat
 ---
 ## 📸 Project Screenshots
 
-## 📸 Project Screenshots
-
-<p align="center">
-  <img src="<img width="1345" height="594" alt="Screenshot 2026-08-08 155134" src="https://github.com/user-attachments/assets/f8c9066a-c9a8-458c-82cf-304348d1c2a5" />
-
-</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f8c9066a-c9a8-458c-82cf-304348d1c2a5" width="800"/>

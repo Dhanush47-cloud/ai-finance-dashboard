@@ -26,13 +26,15 @@ It provides insights into spending patterns, category-wise analysis, and estimat
 </p>
 
 <p align="center">
-  <img src="<img width="1356" height="485" alt="Screenshot 2026-08-08 155230" src="https://github.com/user-attachments/assets/7e2f7838-4ad4-49d4-a13b-dfd57ed87ce0" />
-" width="800"/>
+  <img src="https://github.com/user-attachments/assets/f8c9066a-c9a8-458c-82cf-304348d1c2a5" width="800"/>
 </p>
 
 <p align="center">
-  <img src="<img width="992" height="557" alt="Screenshot 2026-08-08 155350" src="https://github.com/user-attachments/assets/a7c1a660-4111-4c7f-aee9-654fb653ff79" />
-" width="800"/>
+  <img src="https://github.com/user-attachments/assets/7e2f7838-4ad4-49d4-a13b-dfd57ed87ce0" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a7c1a660-4111-4c7f-aee9-654fb653ff79" width="800"/>
 </p>
 
 ## 🧠 How AI is Used
